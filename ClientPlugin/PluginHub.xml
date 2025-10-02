@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>TODO: OverloadOV/BetterShopInterface</Id>
-  <GroupId>TODO: github-user/project-name</GroupId>
+  <GroupId>TODO: OverloadOV/BetterShopInterface</GroupId>
   <FriendlyName>TODO: Better Store Interface</FriendlyName>
   <Author>TODO: OverloadOV</Author>
-  <Commit>TODO: Git commit hash</Commit>
+  <Commit>TODO: 096521e6dedaeb4c2e899308124c002a43af5924</Commit>
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
-  <Tooltip>TODO: Short description</Tooltip>
-  <Description>TODO: Long description, multiple lines.
+  <Tooltip>TODO: Store Interface</Tooltip>
+  <Description>TODO:
 
 FriendlyName: BetterStoreInterface(Development)
 
